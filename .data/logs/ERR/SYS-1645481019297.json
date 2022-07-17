@@ -1,0 +1,1 @@
+{"src":"SYS-1645481019297","msg":"Failed to create a log file... and also reading an existing one. hrm...  Perhaps add a random interval to read again?","payload":{"err":null,"logPath":"logs/CHCK","src":"INVALID-ERR","type":"CHCK","logData":{"src":"INVALID-ERR","msg":"Check data did not pass validation","payload":{"checkData":"[object Promise]"}}}}
