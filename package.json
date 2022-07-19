@@ -1,0 +1,17 @@
+{
+  "name": "RESTful-API-Secure",
+  "version": "0.6.9",
+  "description": "Independant HTTP/HTTPS server with API, Background Workers, and Storage Manipulation",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phxsol/RESTful-API-Secure.git"
+  },
+  "keywords": [
+  ],
+  "author": "Joshua Hopkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phxsol/RESTful-API-Secure/issues"
+  },
+  "homepage": "https://github.com/phxsol/RESTful-API-Secure#readme"
+}
